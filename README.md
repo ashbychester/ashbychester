@@ -6,6 +6,7 @@ Currently exploring the realm of Neural Networks and how to apply them to the ma
 Professional Book Nerd and basketball enthusiast <br/>
 Looking for 2026 summer and fall internship opportunities <br/>
 
+Here's a link to my resume: [Resume](https://docs.google.com/document/d/1yF2xmljPcsgdQ6t1R7tucFk3_yeDkDLW8wL0CtSCrDA/edit?usp=sharing)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chester_ashby) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chesterashby) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chester.o.ashby@gmail.com) 
